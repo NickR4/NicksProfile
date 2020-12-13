@@ -3,6 +3,7 @@
   margin-left: auto;
   margin-right: auto;
   width: 500px;
+  hieght: auto;
   text-align: center;
   
 }
@@ -29,4 +30,10 @@ p {
 
 ol, ul{
   font-size:20px;
+  padding-left: 150px;
+}
+
+img {
+  padding-top: 25px;
+  padding-bottom: 25px;
 }
